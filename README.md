@@ -28,5 +28,6 @@
 <br /><br /><br />
 <details>
 <summary> :bulb:Most Used languages
+  <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengucekbaran&layout=compact">
 </details>
