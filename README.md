@@ -8,14 +8,13 @@
 
 ### Reach out to me
 
-
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 
 [instagram]:https://z-p15.www.instagram.com/baranmengck/
 [linkedin]: https://www.linkedin.com/in/baran-mengucek-119852233/
 
-<br> <br> <br> <br /><br />
+<br> <br> <br> 
 
 ### Languages and Tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=70px align="left">
