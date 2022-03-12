@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" width=70px align="left">
 <br /><br /><br /> <br />
 <details>
-<summary> :bulb:Most Used languages
+  <summary> :bulb:Most Used languages </ summary>
   <br /> <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengucekbaran&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengucekbaran&layout=compact">
 </details>
