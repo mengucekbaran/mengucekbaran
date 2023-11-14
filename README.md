@@ -2,10 +2,7 @@
 
 
 ### Hi there, I'm Baran. :sweat_smile:
-
-## I'm a computer enginering student in Konya Technical University.
 <hr>
-
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
